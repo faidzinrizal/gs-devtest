@@ -7,7 +7,7 @@ start app on console
 ```html
 php index.php
 ```
-input the parameter of villager's Death Age and Death Year
+input the parameter of two villager's Death Age and Death Year
 and programs will show the average of people the witch killed on year of birth of those people 
 
 ### Example
